@@ -2,15 +2,15 @@
 Análise dos determinantes do IDEB 2023 nas escolas municipais de Fortaleza utilizando regressão linear múltipla.
 
 
-Análise do IDEB 2023 - Escolas Municipais de Fortaleza
+## Análise do IDEB 2023 - Escolas Municipais de Fortaleza
 
 Este repositório apresenta uma análise quantitativa dos fatores associados ao desempenho educacional das escolas municipais de Ensino Fundamental II de Fortaleza, utilizando como variável principal o Índice de Desenvolvimento da Educação Básica (IDEB) referente ao ano de 2023.
 
-Objetivo
+## Objetivo
 
 O objetivo do estudo é identificar os principais determinantes do IDEB, considerando variáveis socioeconômicas, pedagógicas, docentes e organizacionais, por meio de um modelo de regressão linear múltipla.
 
-Base de Dados
+## Base de Dados
 
 Os dados utilizados são provenientes de fontes oficiais:
 
@@ -22,7 +22,7 @@ Os dados utilizados são provenientes de fontes oficiais:
 
 Todos os dados são públicos e foram tratados para construção de uma base integrada.
 
-Metodologia
+## Metodologia
 
 A análise foi realizada em etapas:
 
@@ -49,7 +49,7 @@ A análise foi realizada em etapas:
 
 ---
 
-Variáveis do Modelo Final
+## Variáveis do Modelo Final
 
 O modelo final foi composto pelas seguintes variáveis explicativas:
 
@@ -62,14 +62,14 @@ O modelo final foi composto pelas seguintes variáveis explicativas:
 
 ---
 
-Observações Metodológicas
+## Observações Metodológicas
 
 - O indicador SPAECE não foi incluído no modelo devido à sua alta correlação com o IDEB, sendo utilizado apenas para comparação externa.
 - A amostra final foi composta por 126 escolas, atendendo aos critérios de robustez de Tabachnick e Fidell (2019).
 
 ---
 
-Estrutura do Projeto
+## Estrutura do Projeto
 
 Analise-ideb-2023-fortaleza/
 │
@@ -92,7 +92,7 @@ Analise-ideb-2023-fortaleza/
 ├── requirements.txt
 └── README.md
 
-Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Python
 - Pandas
@@ -101,11 +101,11 @@ Tecnologias Utilizadas
 - Statsmodels
 - Scikit-learn
 
-Reprodutibilidade
+## Reprodutibilidade
 
 Todos os códigos utilizados estão disponíveis neste repositório, permitindo a replicação completa dos resultados apresentados no estudo.
 
-Resultados
+## Resultados
 
 Os resultados indicam que fatores relacionados às condições docentes e ao fluxo escolar possuem forte influência sobre o desempenho educacional, destacando-se:
 
@@ -113,13 +113,13 @@ Os resultados indicam que fatores relacionados às condições docentes e ao flu
 - Impacto positivo da regularidade docente (IRD)
 - Influência significativa da distorção idade-série (TDI)
 
-Próximos Passos
+## Próximos Passos
 
 - Atualização da análise com dados do IDEB 2025
 - Comparação temporal entre 2023 e 2025
 - Expansão do modelo para novas variáveis
 
-## 👨‍💻 Autor
+## Autor
 
 Projeto desenvolvido por Landson Victor Gomes de Almeida
 
