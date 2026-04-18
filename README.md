@@ -91,7 +91,7 @@ Analise-ideb-2023-fortaleza/
 │
 ├── requirements.txt
 └── README.md
-
+---
 ## Tecnologias Utilizadas
 
 - Python
@@ -100,30 +100,30 @@ Analise-ideb-2023-fortaleza/
 - Matplotlib / Seaborn
 - Statsmodels
 - Scikit-learn
-
+---
 ## Reprodutibilidade
 
 Todos os códigos utilizados estão disponíveis neste repositório, permitindo a replicação completa dos resultados apresentados no estudo.
-
-## Resultados
+---
+## Conclusão
 
 Os resultados indicam que fatores relacionados às condições docentes e ao fluxo escolar possuem forte influência sobre o desempenho educacional, destacando-se:
 
 - Impacto negativo do esforço docente (IED)
 - Impacto positivo da regularidade docente (IRD)
 - Influência significativa da distorção idade-série (TDI)
-
+---
 ## Próximos Passos
 
 - Atualização da análise com dados do IDEB 2025
 - Comparação temporal entre 2023 e 2025
 - Expansão do modelo para novas variáveis
-
+---
 ## Autor
 
 Projeto desenvolvido por Landson Victor Gomes de Almeida
 
-
+---
 ## Licença
 
 Este projeto utiliza dados públicos e tem fins acadêmicos.
