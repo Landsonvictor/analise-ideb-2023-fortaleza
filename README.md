@@ -71,7 +71,7 @@ Observações Metodológicas
 
 Estrutura do Projeto
 
-nalise-ideb-2023-fortaleza/
+Analise-ideb-2023-fortaleza/
 │
 ├── data/
 │ ├── raw/ # dados originais
