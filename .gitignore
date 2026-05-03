@@ -11,3 +11,5 @@ Anexos/
 # Ignorar arquivos temporários do sistema
 .DS_Store
 Thumbs.db
+~$*
+
