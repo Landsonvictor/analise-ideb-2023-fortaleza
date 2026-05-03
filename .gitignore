@@ -1,0 +1,13 @@
+# Ignorar pastas de ambiente virtual
+venv/
+.venv/
+env/
+
+
+# Ignorar pastas de cache do Python
+Anexos/
+
+
+# Ignorar arquivos temporários do sistema
+.DS_Store
+Thumbs.db
